@@ -1,0 +1,11 @@
+{
+  "hosting": {    
+    "public": "build/web",
+    "site": "rii92-portofolio",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
